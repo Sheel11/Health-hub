@@ -1,0 +1,12 @@
+import os
+
+DATA_DIR = 'notebooks'
+DATA_FILE = 'dataset.csv'
+
+SYMPTOM_DESCRIPTION_FILE = 'symptom_Description.csv'
+SYMPTOM_PRECAUTION_FILE = 'symptom_precaution.csv'
+
+DATA_FILE_PATH = os.path.join(DATA_DIR , DATA_FILE)
+SYMPTOM_DESCRIPTION_FILE_PATH = os.path.join(DATA_DIR , SYMPTOM_DESCRIPTION_FILE)
+SYMPTOM_PRECAUTION_FILE_PATH = os.path.join(DATA_DIR , SYMPTOM_PRECAUTION_FILE)
+
