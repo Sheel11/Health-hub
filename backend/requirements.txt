@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg
+python-dotenv
+scikit-learn
+pandas
+numpy
+passlib
+pydantic
+datetime
+os
+joblib
+jose
+
