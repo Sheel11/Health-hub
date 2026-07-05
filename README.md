@@ -43,7 +43,7 @@ the results.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/health-hub.git
+git clone https://github.com/sheel11/health-hub.git
 cd health-hub
 ```
 
